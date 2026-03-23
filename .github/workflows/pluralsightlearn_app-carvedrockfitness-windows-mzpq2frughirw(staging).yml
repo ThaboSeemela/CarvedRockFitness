@@ -52,4 +52,4 @@ jobs:
           app-name: 'app-carvedrockfitness-windows-mzpq2frughirw'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6C739E71273475DB0396DE01CC77894 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12834363C8E74A00B26DA508CE67FD4C }}
